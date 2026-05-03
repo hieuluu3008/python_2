@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:fullhousedev.com)",
+      "Bash(python -c ' *)",
+      "Bash(python c:\\\\Users\\\\TS-1352.LAPTOP-9R6P8INJ\\\\Desktop\\\\python\\\\insert_recursion.py)",
+      "Bash(python \"c:\\\\Users\\\\TS-1352.LAPTOP-9R6P8INJ\\\\Desktop\\\\python\\\\insert_recursion.py\")",
+      "Bash(python \"c:\\\\Users\\\\TS-1352.LAPTOP-9R6P8INJ\\\\Desktop\\\\python\\\\remove_class.py\")",
+      "Read(//c/Users/TS-1352.LAPTOP-9R6P8INJ/Desktop/**)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\USER\\Desktop\\github\\python",
+      "c:\\Users\\TS-1352.LAPTOP-9R6P8INJ\\Desktop\\python"
+    ]
+  }
+}
